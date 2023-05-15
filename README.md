@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Upadhyay</h1>
-<h3 align="center">A passionate aspiring ML Web developer </h3>
+<h3 align="center">A passionate aspiring ML developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaditya1313&label=Profile%20views&color=0e75b6&style=flat" alt="imaditya1313" /> </p>
 
